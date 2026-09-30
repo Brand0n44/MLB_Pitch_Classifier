@@ -1,0 +1,19 @@
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Downloaded data and trained models (too big for git)
+Backend/data/
+Backend/models/
+
+# Jupyter autosave files
+.ipynb_checkpoints/
+
+# Mac system files
+.DS_Store
+
+# Frontend dependencies
+node_modules/
